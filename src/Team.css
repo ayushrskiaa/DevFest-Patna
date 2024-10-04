@@ -35,7 +35,7 @@
     padding: 10px;
     margin: 10px;
     border-radius: 8px; /* Optional: for rounded corners */
-    background-color: #a78e8e; 
+    background-color: #ffffff; 
     /* background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%); */
     /* background: linear-gradient(129deg, rgba(31,255,0,1) 22%, rgba(247,248,0,1) 22%, rgba(255,231,0,1) 47%, rgba(195,180,34,1) 47%, rgba(255,0,0,1) 47%, rgba(146,0,0,1) 71%, rgba(4,0,255,1) 71%); */
     box-shadow: 10px 10px 10px rgba(247, 222, 1, 0.8); /* Horizontal offset, Vertical offset, Blur radius, Shadow color */
