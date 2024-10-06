@@ -1,14 +1,14 @@
 import React from 'react';
 import './Team.css'; 
 // import frame from './components/frame.png'; 
-import frame from './components/frame3.png';
+import frame from './components/frame4.svg';
 import Man from './components/man1.png';
 const Team = () => {
   
   const teamMembers = [
     {
       id: 1,
-      name: 'Ayush Kumar',
+      name: 'Batman',
       designation: 'Tech Team',
       linkedin: 'https://www.linkedin.com/in/ayushkumar',
       github: 'https://github.com/ayushrskiaa',
@@ -88,7 +88,7 @@ const Team = () => {
           <div className='image-container'>
           {/* <img src={member.image} alt={member.name} className="team-member-image" /> */}
           <img src={member.image} alt={member.name} className="team-member-image" />
-          <img src={frame} alt="Frame" className="team-member-frame" />
+          <img src={frame} alt="Frame" className="team-member-frame team-member-frame-d" />
           </div>
             
             <h3>{member.name}</h3>
